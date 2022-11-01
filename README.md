@@ -1,5 +1,7 @@
 
 <p align="right" >   
+  <span>visitasﾠ</span>
+  <br>
   <img src="https://profile-counter.glitch.me/mesa9studio/count.svg" />  
 </p>
 
@@ -20,8 +22,8 @@
 <br>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mesa9studio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesa9studio&layout=compact&langs_count=16&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mesa9studio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesa9studio&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 
