@@ -27,4 +27,4 @@
 
 ##
 
-![Snake animation](https://github.com/JHDsBR/Mesa9Studio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mesa9Studio/Mesa9Studio/blob/output/github-contribution-grid-snake.svg)
